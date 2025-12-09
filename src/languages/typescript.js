@@ -134,6 +134,8 @@ export default function(hljs) {
   Object.assign(tsLanguage, {
     name: 'TypeScript',
     aliases: [
+      'es',
+      'ezmascript',
       'ts',
       'tsx',
       'mts',
